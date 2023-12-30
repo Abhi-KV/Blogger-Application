@@ -77,4 +77,7 @@ public class AuthController {
         return new ResponseEntity<>("User registered successfully", HttpStatus.OK);
 
     }
+    public void test(){
+        
+    }
 }
